@@ -1,0 +1,71 @@
+      	* JAVA ASSIGNMENT *
+
+
+
+*JAVA :- JAVA IS A PROGRAMMING LANGUAGE WHICH IS DEVELOP 
+        BY JAMES GOSLING AND IT RELEASED IN 1995. 
+
+==> java applications are typically complied to bytecode
+    (class file) that can run on any JAVA VIRTUAL MACHINE.
+
+==> java is fully object oriented programming language.
+    EX. CLASS,
+        OBJECT,
+        Inheritance,
+        Encapsulation,
+        Polymorphism
+
+* why we need java?
+
+==> java technology is a highh leval programming and
+    a platform independed language. 
+==> java is work on oop object oriened programm.
+
+
+*what is JVM?
+==> JAVA VIRTUAL MACHINE.
+
+==> JVM are available for many hardware and software 
+    platforms.
+
+==> JVM is circular component of the java platform.
+
+==>It is a platform-independent execution environment that 
+converts the Java bytecode into machinelanguage and executes it.
+
+==>  Most programming languages compile source code directly into
+     machine code that is designed to run on a specific operating system,
+     such as Windows or UNIX.
+
+==> The use of the same bytecode forall JVMs on all platforms
+    allows Java to be described as a 
+    "compile once, run anywhere"programming language, as opposed to
+    "write once, compile anywhere", which describes crossplatform 
+    compiled languages. 
+
+*what is JRE?
+
+==> JAVA RUNTIME ENVIORNMENT.
+
+==> Java Runtime Environment contains JVM, class libraries, and other supporting files. 
+
+==> It does notcontain any development tools such as compiler, debugger, etc.
+
+==> Actually JVM runs the program, and it uses the class libraries, and other supporting
+    files provided in JRE.
+
+==> If you want to run any java program, you need to have JRE installed in the system.
+
+* WHAT IS JDK?
+
+==> JAVA DEVELOPMENT KIT.
+
+==> jdk contains tooles needed to develop the java program.
+
+
+
+
+
+
+
+
